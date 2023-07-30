@@ -2,7 +2,7 @@
 
 import sys
 
-# skipper le header du fichier
+# sauter l'entête du fichier
 next(sys.stdin)
 
 for line in sys.stdin:
